@@ -9,7 +9,8 @@ symbol
 bigint
 
 */
-const firstname = "Varun"
+let firstname = "Varun"
+let anotherName = firstname
 const age = 20
 const score = 200.09
 let isLoggedIn = true
@@ -39,6 +40,8 @@ const userObject = {
     age: 22,
     isLoggedIn: true
 }
+
+let anotherUser = userObject
 
 let sayhello =[]
 const hello = {}
