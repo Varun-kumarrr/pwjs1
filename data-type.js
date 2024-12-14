@@ -17,7 +17,7 @@ let isLoggedIn = true
 const nodeVersion = null
 let bankbalance = undefined
 const buttonid = Symbol("ID")
-const aReallyLongNumber = 999999999999999999999n
+const aReallyLongNumber = 999999999999999999999
 
 
 //reference (non primitive) - objects (heap)
